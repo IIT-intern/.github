@@ -1,8 +1,9 @@
 # Deakin-IIT Kharagpur Foreign Internship Projects
 
-Project students' name and contact list
+Project students' names and contact lists
 
 Projects in T1 2024:
+
 **1. Anomaly detection for industrial quality assurance**
   Adeeba Alam Ansari  (adeebafaiquah2746@gmail.com)  
   Ayan Ahmed  (ayanahmed2003786@kgpian.iitkgp.ac.in)
