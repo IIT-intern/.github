@@ -2,7 +2,7 @@
 
 _Projects in T1 2024_
 
-**Project-1: Time Series Anomaly Detection **
+**Project-1: Time Series Anomaly Detection**
 
 Time series anomaly detection is the task of identifying unusual patterns or events in temporal data that do not conform to normal behavior. It has many applications in various domains, such as finance, health care, security, and manufacturing. However, it also poses many challenges, such as high dimensionality, noise, seasonality, and non-stationarity of the data. This project focuses on developing novel and effective methods for time series anomaly detection using statistical models and deep learning methods. The required skills include Python programming, basic machine learning and statistics background.
 
